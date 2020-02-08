@@ -1,0 +1,32 @@
+.jumbotron{
+
+    background-image: url(../images/hands.jpg);
+
+    background-position: center;
+
+    background-attachment: fixed;
+
+    background-size: cover;
+
+    min-height: 100vh;
+	
+	text-align: center
+	
+	/*filter: opacity(30%);*/
+}
+
+#jumbotron img {
+	filter: opacity(30%);
+}
+
+
+
+#navbarNav{
+	color: aliceblue;
+}
+
+body{
+    background-image: url(../images/hero_4.jpg);
+
+}
+ 
